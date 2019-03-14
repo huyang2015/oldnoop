@@ -95,7 +95,7 @@ public class MemberController {
 	}
 
 	/**
-	 * 跳转到完善账户（手机，邮箱）信息页面
+	 * 跳转到完善账户（手机，邮箱）信息页面，修改两下
 	 * 
 	 * @return
 	 */
