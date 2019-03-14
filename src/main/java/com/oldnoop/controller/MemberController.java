@@ -203,7 +203,7 @@ public class MemberController {
 	}
 
 	/**
-	 * 退出
+	 * 退出，修改一下
 	 * 
 	 * @param session
 	 * @return
